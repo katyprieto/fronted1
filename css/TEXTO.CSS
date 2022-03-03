@@ -1,0 +1,15 @@
+header{background-image: url(../img/mar.jpg) ;}
+
+body{font-family: 'Hubballi', cursive;}
+
+#imagen2{max-width:20% ; max-height: 20%;}
+
+#batman {display:block; margin: auto;
+}
+H1{COLOR: BLUE; text-align: center;}
+
+h2{COLOR:LIGHTBLUE;background-color: grey;}
+
+#footer {color: white;background-color: navy;text-align: center;}
+
+h3{font-weight: bold;}
